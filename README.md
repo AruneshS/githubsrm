@@ -10,7 +10,7 @@
 <b> GitHub Community SRM is the foremost student-led community spearheading the Open Source Revolution at SRMIST, Chennai.</b>
 </p>
 <blockquote align="center"> 
-  rendered with <span style="color: #8b0000;">&hearts;</span> by your friends at <a href="https://githubsrm.tech">GitHub Community SRM</a>.
+  rendered with <span style="color: #8b0000;">&hearts; </span> by your friends at <a href="https://githubsrm.tech">GitHub Community SRM</a>.
 
 </blockquote> 
 <p align="center">
